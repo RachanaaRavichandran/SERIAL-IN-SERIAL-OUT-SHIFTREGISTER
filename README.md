@@ -51,8 +51,8 @@ Developed by: RegisterNumber:25004301
 <img width="368" height="298" alt="Screenshot 2025-12-10 141141" src="https://github.com/user-attachments/assets/e4ba44ee-20ed-4e52-bc7e-ef15437e7e07" />
 
 **TIMING DIGRAMS FOR SISO Shift Register**
+<img width="1901" height="879" alt="Screenshot 2025-12-11 140702" src="https://github.com/user-attachments/assets/b38518b0-b76c-40a9-a850-1cb1fc9ce594" />
 
-<img width="1033" height="523" alt="Screenshot 2025-12-10 141426" src="https://github.com/user-attachments/assets/de287be6-bef5-47d7-8a64-685aa98209d2" />
 
 
 
